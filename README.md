@@ -15,3 +15,8 @@ Para el desarrollo de esta actividad se utilizó una base de datos creada por ci
 -  Gráfica exploratoria para un grupo poblacional específico.
 
 -  Discusión de hallazgos y patrones observados.
+
+## **Documentos**
+
+- [Reporte en formato .ipynb](./A1.1_653602.ipynb)
+- 
