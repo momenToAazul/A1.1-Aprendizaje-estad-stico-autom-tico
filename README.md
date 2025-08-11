@@ -6,12 +6,12 @@ Para el desarrollo de esta actividad se utilizó una base de datos creada por ci
 
 ## **Contenido del proyecto**
 
-Importación y visualización de datos usando pandas, numpy y matplotlib.
+-  Importación y visualización de datos usando pandas, numpy y matplotlib.
 
-Selección y justificación de variables adicionales para enriquecer el análisis (ej. duración del sueño).
+-  Selección y justificación de variables adicionales para enriquecer el análisis (ej. duración del sueño).
 
-Definición y análisis de la variable respuesta (Nivel de Obesidad).
+-  Definición y análisis de la variable respuesta (Nivel de Obesidad).
 
-Gráfica exploratoria para un grupo poblacional específico.
+-  Gráfica exploratoria para un grupo poblacional específico.
 
-Discusión de hallazgos y patrones observados.
+-  Discusión de hallazgos y patrones observados.
