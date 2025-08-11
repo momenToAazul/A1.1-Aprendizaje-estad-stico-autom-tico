@@ -21,3 +21,4 @@ Para el desarrollo de esta actividad se utilizó una base de datos creada por ci
 - [Reporte en formato .ipynb](./A1.1_653602.ipynb)
 - [Reporte en formato .html](./A1.1_653602.html)
 - [Reporte en formato .pdf](./A1.1_653602.pdf)
+- [Base de datos .csv](./A1.1_Obesidad.csv)
