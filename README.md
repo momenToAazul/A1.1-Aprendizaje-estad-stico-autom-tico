@@ -1,1 +1,1 @@
-# A1.1-Aprendizaje-estad-stico-autom-tico
+# A1.1 Aprendizaje-estadístico-automático
